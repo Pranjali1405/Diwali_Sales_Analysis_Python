@@ -7,7 +7,7 @@ Exploratory Data Analysis (EDA): Visualizing sales trends, customer segmentation
 Insights Generation: Identifying factors contributing to higher sales and customer engagement.  
 Visualizations: Using libraries like Matplotlib and Seaborn to create clear and interactive graphs.  
 
-#Tools and Libraries  
+# Tools and Libraries  
 Pandas: Data manipulation and analysis.  
 NumPy: Numerical computations.  
 Matplotlib and Seaborn: Data visualization.  
